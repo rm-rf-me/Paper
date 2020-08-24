@@ -16,6 +16,7 @@
     * Learning Spatiotemporal Features with 3D Convolutional Networks，C3D，ICCV，2015
   * 姿态检测
     * 单人
-      * Convolutional Pose Machines
+      * Learning Human Pose Estimation Features with Convolutional Networks，ICLR，2014
+      * Convolutional Pose Machines，CVPR，2016
 * nlp
   * Self-Attentional Models for Lattice Inputs

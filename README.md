@@ -18,5 +18,6 @@
     * 单人
       * Learning Human Pose Estimation Features with Convolutional Networks，ICLR，2014
       * Convolutional Pose Machines，CVPR，2016
+      * Stacked Hourglass Networks for Human Pose Estimation，ECCV，2016
 * nlp
   * Self-Attentional Models for Lattice Inputs

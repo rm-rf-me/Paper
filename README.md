@@ -24,6 +24,8 @@
       * Convolutional Pose Machines，CVPR，2016
       
         [pytorch版代码注释](https://github.com/bitcodewoker/Study-Convolutional-Pose-Machines)
+
+      * Learning Feature Pyramids for Human Pose Estimation，ICCV，2017
       
       * Stacked Hourglass Networks for Human Pose Estimation，ECCV，2016
 * nlp

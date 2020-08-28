@@ -28,6 +28,8 @@
       * Learning Feature Pyramids for Human Pose Estimation，ICCV，2017
       
       * Stacked Hourglass Networks for Human Pose Estimation，ECCV，2016
+      
+      * A Cascaded Inception of Inception Network with Attention Modulated Feature Fusion for Human Pose Estimation，AAAI，2018
 * nlp
   
   * Self-Attentional Models for Lattice Inputs

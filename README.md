@@ -25,7 +25,7 @@
         * [CPM模型图解和参数计算](https://github.com/bitcodewoker/Study-Convolutional-Pose-Machines/blob/master/CPM模型.pdf)，画了蛮久的，不管看不看代码都要看这个啊。。。
       * Learning Feature Pyramids for Human Pose Estimation，ICCV，2017
       * Stacked Hourglass Networks for Human Pose Estimation，ECCV，2016
-        * [pytorch版代码注释](https://github.com/bitcodewoker/Study-stacked-hourglass)（还没写完，持续更新。。。
+        * [pytorch版代码注释](https://github.com/bitcodewoker/Study-stacked-hourglass)
       * A Cascaded Inception of Inception Network with Attention Modulated Feature Fusion for Human Pose Estimation，AAAI，2018
 * nlp
   

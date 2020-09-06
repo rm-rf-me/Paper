@@ -14,6 +14,7 @@
     * Long-term Recurrent Convolutional Networks for Visual Recognition and Description，2015，CVPR
     * Convolutional Two-Stream Network Fusion for Video Action Recognition，2016，CVPR
     * Temporal Segment Networks for Action Recognition in Videos，TSN，2018，IEEE
+    * Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision，2019，AAAI
   * 3d
     
     * Learning Spatiotemporal Features with 3D Convolutional Networks，C3D，ICCV，2015

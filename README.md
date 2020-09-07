@@ -28,6 +28,7 @@
       * Learning Feature Pyramids for Human Pose Estimation，ICCV，2017
       * Stacked Hourglass Networks for Human Pose Estimation，ECCV，2016
         * [pytorch版代码注释](https://github.com/bitcodewoker/Study-stacked-hourglass)
+      * Multi-Context Attention for Human Pose Estimation CVPR，2017
       * A Cascaded Inception of Inception Network with Attention Modulated Feature Fusion for Human Pose Estimation，AAAI，2018
       * Human Pose Estimation with Spatial Contextual Information，2019，不知道是哪个会议的。。。
 * nlp

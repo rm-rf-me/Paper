@@ -29,6 +29,7 @@
       * Stacked Hourglass Networks for Human Pose Estimation，ECCV，2016
         * [pytorch版代码注释](https://github.com/bitcodewoker/Study-stacked-hourglass)
       * A Cascaded Inception of Inception Network with Attention Modulated Feature Fusion for Human Pose Estimation，AAAI，2018
+      * Human Pose Estimation with Spatial Contextual Information，2019，不知道是哪个会议的。。。
 * nlp
   
   * Self-Attentional Models for Lattice Inputs

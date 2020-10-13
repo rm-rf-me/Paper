@@ -68,6 +68,7 @@
 ## 新的工作
 
 * PoseWarper：Learning Temporal Pose Estimation from Sparsely-Labeled Videos，NIPS，2019
+* Efficient Online Multi-Person 2D Pose Tracking with Recurrent Spatio-Temporal Affinity Fields，CVPR，2019
 * Combining detection and tracking for human pose estimation in videos，CVPR，2020
 * CorrTrack：Temporal Keypoint Matching and Reﬁnement Network for Pose Estimation and Tracking，ECCV，2020
 * Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos，ECCV，2020

@@ -1,13 +1,17 @@
 # Paper
 
+// 近期不怎么更新了。一个原因是比较忙（摸鱼）。另一个原因是之前的文件夹pdf+md的整理方式已经应对不了大量论文了。所以最近主要方式是paper3整理和论文阅读+思维导图，新软件添加的一些高亮和注释还不太会打包所以没办法发出来，之后更新可能是思维导图或者md的形式。还是希望能够把这些整理的工作一致坚持下去的。
+
 ## 目录
 
 * cv
+  * 总结性文档
+    * 视频方向论文粗分类.md
   * fine grain
-    
+  
     * FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding，2020，CVPR
   * image
-    
+  
     * Mask RCNN
   * 双流
     * Two-Stream Convolutional Networks for Action Recognition in Videos，2014
@@ -17,9 +21,14 @@
     * Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision，2019，AAAI
     * Multi-Instance Multi-Label Action Recognition and Localization Based on Spatio-Temporal Pre-Trimming for Untrimmed Videos，2020，AAAI
   * 3d
-    
+  
     * Learning Spatiotemporal Features with 3D Convolutional Networks，C3D，ICCV，2015
   * 姿态检测
+    * 总结性文档
+      * 姿态检测概述.md
+      * ECCV2020 Pose Estimation.md
+      * MPII数据集SOTA.md
+      * PoseTrack17&18.md
     * 单人
       * Learning Human Pose Estimation Features with Convolutional Networks，ICLR，2014
       * Convolutional Pose Machines，CVPR，2016。

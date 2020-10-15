@@ -29,6 +29,8 @@
       * ECCV2020 Pose Estimation.md
       * MPII数据集SOTA.md
       * PoseTrack17&18.md
+      * Pose estimation.pdf
+      * Pose estimation.mindnode
     * 单人
       * Learning Human Pose Estimation Features with Convolutional Networks，ICLR，2014
       * Convolutional Pose Machines，CVPR，2016。
